@@ -1,0 +1,11 @@
+Know how to write pseudocode to design a straightforward algorithm to solve a simple problem.
+Know how to design a simple Divide-and-Conquer algorithm to solve a problem. Hint: This will be much easier if you clearly understand the divide and conquer algorithms we've gone over in class. You will most likely use similar techniques from other algorithms to implement your answer.
+Given pseudocode, be able to determine what the algorithm does, and what the worst and best case inputs are (i.e. what input causes the most amount of basic operations and what input causes the least amount of basic operations)
+Given two functions, be able to determine if they are in the same complexity class or not. If not, be able to rank them by growth from low to high.
+Given a list of functions, be able to rank all of them from low to high.
+Be able to look at an algorithm and determine its recurrence relation. Then, be able to solve that relation (the math on this one will be relatively simple)
+Know how write the recursive tree to problems using the Mergesort, and Quicksort.
+Be able to write a chart detailing the top-level call to partition in Quicksort.
+Given pseudocode of a sorting algorithm not discussed in class, be able to use it on a list of integers and also analyze its performance.
+Make sure you can analyze the performance of an algorithm given its pseudocode. I recommend memorizing the slide in the lecture notes that discusses how to intuitively know an algorithm's order.
+I also recommend memorizing the different logarithm facts on the math refresher slide.

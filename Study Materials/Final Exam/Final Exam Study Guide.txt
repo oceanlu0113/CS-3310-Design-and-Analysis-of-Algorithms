@@ -1,0 +1,11 @@
+Be familiar with the following Backtracking Algorithms and how we solved instances of them in the lecture notes (both by writing out each step and by drawing the pruned state-space tree. I will make these shorter than the in-class exercises!
+Sum-of-Subsets
+0-1 Knapsack
+Graph Coloring
+Be familiar with the 0-1 Knapsack and Traveling Salesperson Branch-and-Bound algorithms. Specifically know how to draw the state space tree (including each node's bound) as well as the contents of the priority queue after each step. 
+
+Given an optimization problem, prove that it is in NP (i.e. transform it to a decision problem, then create a verification algorithm for it and show that it runs in polynomial time)
+Know the basic details and definitions of P, NP, and NP-complete. There will be no reduction problems, but there may be some true  false or multiple choice related to the these concepts.
+There will be a few problems from earlier in the semester. Be familiar with MergeSort, QuickSort, and Floyd's algorithm. Also know how to rank complexity functions and determine the order of a simple algorithm given its pseudocode. 
+
+We will NOT have recurrence relations or the writing of new algorithms (other than verification algorithms for NP proofs). 

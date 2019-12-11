@@ -1,0 +1,10 @@
+Extra Credit #1
+Worth 25 points toward your homework grade (your homework grade can go over 100%!). Due Tuesday, November 5th at 11:59pm
+
+For this extra credit assignment, you will be getting some more experience with dynamic programming by implementing Floyd's Algorithm. For simplicity, you may hard-code your 2D array W into the program. I recommend using the example graph from the lecture notes / book so you can verify you are getting the correct results. I will be changing the values when I test it to make sure it works for other graphs. Note that I may also be changing the size of the graph to be larger than 5x5.
+
+When your program runs, it should calculate the final D array as well as the P array which can be used to find the shortest path. When these calculations are complete, ask the user to enter two vertices and print the entire shortest path from the starting vertex to the ending vertex (including the starting vertex and the ending vertex) as well as the weight of that path. Continually ask the user for two new vertices until they decide to quit the program. You do not have to worry about input validation if you don't want to (i.e. I won't enter vertex 10 if the graph only has 5 vertices)
+
+Note: Due to the simplicity of the pseudocode and the fact that the slides/book use arrays that start at index 1, there will be a few minor complications and issues you'll have to figure out. Some of these issues include what to use for 'infinity' in W and D, What to use to indicate in P that there is a direct connection between two vertices (the book uses 0, which probably won't make much sense if your graph starts at vertex 0), etc. 
+
+Please let me know if you have any questions!

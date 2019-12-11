@@ -1,0 +1,12 @@
+Be familiar with how to write out step-by-step solutions for the following algorithms. Note that you will be required to show contents of arrays (such as M and P for Chained Matrix Multiplication, distance and F for Prim's, length and touch for Dijkstra's, etc) and draw a tree for Huffman's. 
+
+Binomial Coefficient
+Floyd's
+Chained Matrix Multiplication
+Huffman Code
+Job Scheduling
+Dijkstra's
+Prim's and Kruskal's
+Given an algorithm description, be able to come up with a counterexample to show the algorithm isn't optimal. 
+
+Know when we might want to use Prim's vs. Kruskal's
